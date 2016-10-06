@@ -1,0 +1,34 @@
+<Persons>
+    <Person>
+        <Country>Estonia</Country>
+        <Name>Taavi</Name>
+    </Person>
+    <Person>
+        <Country>Estonia</Country>
+        <Name>Roman</Name>
+    </Person>
+    <Person>
+        <Country>Estonia</Country>
+        <Name>Taavi</Name>
+    </Person>
+    <Person>
+        <Country>Estonia</Country>
+        <Name>German</Name>
+    </Person>
+    <Person>
+        <Country>Latvia</Country>
+        <Name>Gatis</Name>
+    </Person>
+    <Person>
+        <Country>Latvia</Country>
+        <Name>Andis</Name>
+    </Person>
+    <Person>
+        <Country>Finland</Country>
+        <Name>Sami</Name>
+    </Person>
+    <Person>
+        <Country>Finland</Country>
+        <Name>Anita</Name>
+    </Person>
+</Persons>

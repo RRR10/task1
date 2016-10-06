@@ -1,0 +1,17 @@
+testtask\configuration\DbConnector.class
+testtask\configuration\DataFilter.class
+testtask\model\User.class
+testtask\configuration\DataInitializer.class
+testtask\controller\IndexController.class
+testtask\model\ConferenceRoom.class
+testtask\service\ConferenceServiceImpl.class
+testtask\service\ConferenceService.class
+testtask\controller\UserRestController.class
+testtask\model\Conference.class
+testtask\service\UserServiceImpl.class
+testtask\service\ConferenceRoomServiceImpl.class
+testtask\controller\ConferenceRoomRestController.class
+testtask\service\ConferenceRoomService.class
+testtask\configuration\DataConfiguration.class
+testtask\controller\ConferenceRestController.class
+testtask\service\UserService.class
